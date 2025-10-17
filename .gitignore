@@ -1,0 +1,8 @@
+/.env
+/_venv
+/__pycache__
+app/__pycache__/handlers.cpython-313.pyc
+app/__pycache__/keyboards.cpython-313.pyc
+app/__pycache__/states.cpython-313.pyc
+app/utils/__pycache__/__init__.cpython-313.pyc
+app/utils/__pycache__/scheduler_utils.cpython-313.pyc
